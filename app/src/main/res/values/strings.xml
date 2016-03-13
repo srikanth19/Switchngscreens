@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Switchngscreens</string>
+    <string name="Enter_name_txt">Enter the name</string>
+    <string name="enter_button">ENTER</string>
+    <string name="getname">Get the name</string>
+    <string name="getbutton">GET</string>
+    <string name="last_txt">The name is</string>
+</resources>
